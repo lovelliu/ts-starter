@@ -4,7 +4,7 @@ importers:
 
   .:
     specifiers:
-      '@name6/eslint-config': 0.0.3
+      '@name6/eslint-config': 0.0.4
       '@types/node': ^18.0.0
       bumpp: ^8.2.1
       eslint: ^8.18.0
@@ -16,7 +16,7 @@ importers:
       vite: ^2.9.13
       vitest: ^0.15.2
     devDependencies:
-      '@name6/eslint-config': 0.0.3_b5e7v2qnwxfo6hmiq56u52mz3e
+      '@name6/eslint-config': 0.0.4_b5e7v2qnwxfo6hmiq56u52mz3e
       '@types/node': 18.0.0
       bumpp: 8.2.1
       eslint: 8.18.0
@@ -432,8 +432,8 @@ packages:
       type-detect: 4.0.8
     dev: true
 
-  /@name6/eslint-config/0.0.3_b5e7v2qnwxfo6hmiq56u52mz3e:
-    resolution: {integrity: sha512-PrsLGwbkJhhLr4nND3smk58tK5Rj5yUgCh10ieWysiMJEwjrTlWMhnIj4ZGAgbBlHHsrpntSClhVxfL44RPglg==}
+  /@name6/eslint-config/0.0.4_b5e7v2qnwxfo6hmiq56u52mz3e:
+    resolution: {integrity: sha512-vvpOO0StQ5dP273TQYQev5yqhrFIyx2ib/D8IJwNxv+EDc3EjdW2oUc79rTAfzp1nz+rLPhEggESer08ad+1+g==}
     peerDependencies:
       eslint: '>=7.4.0'
     dependencies:
