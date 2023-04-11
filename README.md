@@ -5,4 +5,4 @@
 
 ## License
 
-[MIT](./LICENSE) License © 2022 [Name6](https://github.com/lhj-web)
+[MIT](./LICENSE) License © 2022 [Lovell Liu](https://github.com/lovelliu)
