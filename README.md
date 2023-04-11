@@ -5,4 +5,4 @@
 
 ## License
 
-[MIT](./LICENSE) License © 2022 [Lovell Liu](https://github.com/lovelliu)
+[MIT](./LICENSE) License © 2022-PRESENT [Lovell Liu](https://github.com/lovelliu)
